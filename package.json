@@ -2,5 +2,5 @@
     "name": "pokemon-go-pokedex",
     "version": "1.0.0",
     "description": "Pokédex of Pokémon GO in JSON.",
-    "main": "pokedex.json"
+    "main": "pokedex-korean.json"
 }

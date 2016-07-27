@@ -1,26 +1,26 @@
-# Pokémon GO Pokédex
-Pokédex of Pokémon GO in JSON
+# 포켓몬 고 도감
+포켓몬 도감 of 포켓몬 고 in JSON
 
 # Elements
-*   **id**: *Identification Number*
-*   **num**: *Number of the Pokémon in the official Pokédex*
-*   **name**: *Pokémon name*
-*   **img**: *URL to an image of this Pokémon*
-*   **type**: *Pokémon type*
-*   **height**: *Pokémon height*
-*   **weight**: *Pokémon weight*
-*   **candy**: *Number of candy to evolve Pokémon*
-*   **egg**: *Number of kilometers to travel to hatch the egg*
-*   **multipliers**: *Multipler of Combat Power (CP) for calculating the CP after evolution* **(NEW)**  [See below](#multipliers)
-*   **weakness**: *Types of Pokémon this Pokémon is weak to* **(NEW)**
-*   **next_evolution**: *Number and Name of successive evolutions of Pokémon* **(NEW)**
-*   **prev_evolution**: *Number and Name of previous evolutions of Pokémon* **(NEW)**
+*   **id**: *포켓몬 아이디*
+*   **num**: *포켓몬 공식 번호*
+*   **name**: *포켓몬 이름*
+*   **img**: *포켓몬 이미지 URL*
+*   **type**: *포켓몬 타입*
+*   **height**: *포켓몬 키*
+*   **weight**: *포켓몬 몸무게*
+*   **candy**: *진화에 필요한 캔디 겟수*
+*   **egg**: *알을 까기위해 이동해야 하는 킬로미터*
+*   **multipliers**: *진화이후 전투력(CP) 계산에 사용되어짐* **(NEW)**  [아래를 참조](#multipliers)
+*   **weakness**: *현제 포켓몬이 약한 타입* **(NEW)**
+*   **next_evolution**: *이전 진화 포켓몬 번호와 이름* **(NEW)**
+*   **prev_evolution**: *다음 진화 포켓몬 번호와 이름* **(NEW)**
 
 ## Multipliers
 
-The formula is `EvolvedCP = OriginalCP x multiplier`.
+공식 `EvolvedCP = OriginalCP x multiplier`.
 
-Example usage of multipliers:
-I want to evolve my Bulbasaur with 200 CP. The future Ivysaur will have `365 = 200 x 1.58` CP.
+multipliers 사용 예시:
+전투력이 200인 이상해씨를 진화 시키려고 한다. 이상해풀에 예상 전투력은 `365 = 200 x 1.58` CP.
 
-If there are two or more values in `multipliers` is because there is a maximum and minimum of evolution CP possible.
+만약에 한개 이상의 `multipliers` 값이 있다면 그것은 진화했을 때 나올 수 있는 최대 최저 값을 의미한다.
