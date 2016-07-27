@@ -18,9 +18,9 @@
 
 ## Multipliers
 
-공식 `EvolvedCP = OriginalCP x multiplier`.
+  공식 `EvolvedCP = OriginalCP x multiplier`.
 
 multipliers 사용 예시:
 전투력이 200인 이상해씨를 진화 시키려고 한다. 이상해풀에 예상 전투력은 `365 = 200 x 1.58` CP.
 
-만약에 한개 이상의 `multipliers` 값이 있다면 그것은 진화했을 때 나올 수 있는 최대 최저 값을 의미한다.
+만약에 두개 이상의 `multipliers` 값이 있다면 포켓몬이 진화했을 때 나올 수 있는 최대 최저 값을 의미한다.
