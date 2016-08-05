@@ -8,7 +8,7 @@
       "height":"0.71 m",
       "weight":"6.9 kg",
       "candy":"25 이상해씨 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":1.58,
       "weaknesses":[
          "불꽃",
@@ -36,7 +36,7 @@
       "height":"0.99 m",
       "weight":"13.0 kg",
       "candy":"100 이상해씨 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          1.2,
          1.6
@@ -69,7 +69,7 @@
       "height":"2.01 m",
       "weight":"100.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -97,7 +97,7 @@
       "height":"0.61 m",
       "weight":"8.5 kg",
       "candy":"25 파이리 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":1.65,
       "weaknesses":[
          "물",
@@ -124,7 +124,7 @@
       "height":"1.09 m",
       "weight":"19.0 kg",
       "candy":"100 파이리 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.79,
       "weaknesses":[
          "물",
@@ -153,7 +153,7 @@
       "height":"1.70 m",
       "weight":"90.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -180,7 +180,7 @@
       "height":"0.51 m",
       "weight":"9.0 kg",
       "candy":"25 꼬부기 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":2.1,
       "weaknesses":[
          "전기",
@@ -206,7 +206,7 @@
       "height":"0.99 m",
       "weight":"22.5 kg",
       "candy":"100 꼬부기 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.4,
       "weaknesses":[
          "전기",
@@ -234,7 +234,7 @@
       "height":"1.60 m",
       "weight":"85.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -260,7 +260,7 @@
       "height":"0.30 m",
       "weight":"2.9 kg",
       "candy":"12 캐터피 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":1.05,
       "weaknesses":[
          "불꽃",
@@ -287,7 +287,7 @@
       "height":"0.71 m",
       "weight":"9.9 kg",
       "candy":"50 캐터피 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          3.55,
          3.79
@@ -319,7 +319,7 @@
       "height":"1.09 m",
       "weight":"32.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -348,7 +348,7 @@
       "height":"0.30 m",
       "weight":"3.2 kg",
       "candy":"12 뿔충이 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          1.01,
          1.09
@@ -379,7 +379,7 @@
       "height":"0.61 m",
       "weight":"10.0 kg",
       "candy":"50 뿔충이 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          3.01,
          3.41
@@ -412,7 +412,7 @@
       "height":"0.99 m",
       "weight":"29.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -440,7 +440,7 @@
       "height":"0.30 m",
       "weight":"1.8 kg",
       "candy":"12 구구 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          1.71,
          1.92
@@ -469,7 +469,7 @@
       "height":"1.09 m",
       "weight":"30.0 kg",
       "candy":"50 구구 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.79,
       "weaknesses":[
          "전기",
@@ -497,7 +497,7 @@
       "height":"1.50 m",
       "weight":"39.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -523,7 +523,7 @@
       "height":"0.30 m",
       "weight":"3.5 kg",
       "candy":"25 꼬렛 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          2.55,
          2.73
@@ -547,7 +547,7 @@
       "height":"0.71 m",
       "weight":"18.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -568,7 +568,7 @@
       "height":"0.30 m",
       "weight":"2.0 kg",
       "candy":"50 깨비참 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          2.66,
          2.68
@@ -593,7 +593,7 @@
       "height":"1.19 m",
       "weight":"38.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -615,7 +615,7 @@
       "height":"2.01 m",
       "weight":"6.9 kg",
       "candy":"50 아보 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.21,
          2.27
@@ -640,7 +640,7 @@
       "height":"3.51 m",
       "weight":"65.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅",
@@ -662,7 +662,7 @@
       "height":"0.41 m",
       "weight":"6.0 kg",
       "candy":"50 피카츄 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":2.34,
       "weaknesses":[
          "땅"
@@ -683,7 +683,7 @@
       "height":"0.79 m",
       "weight":"30.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅"
@@ -704,7 +704,7 @@
       "height":"0.61 m",
       "weight":"12.0 kg",
       "candy":"50 모래두지 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.45,
       "weaknesses":[
          "물",
@@ -727,7 +727,7 @@
       "height":"0.99 m",
       "weight":"29.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -750,7 +750,7 @@
       "height":"0.41 m",
       "weight":"7.0 kg",
       "candy":"25 니드런♀ 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.63,
          2.48
@@ -779,7 +779,7 @@
       "height":"0.79 m",
       "weight":"20.0 kg",
       "candy":"100 Nidoran ♀ 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          1.83,
          2.48
@@ -810,7 +810,7 @@
       "height":"1.30 m",
       "weight":"60.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -838,7 +838,7 @@
       "height":"0.51 m",
       "weight":"9.0 kg",
       "candy":"25 니드런♂ 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.64,
          1.7
@@ -867,7 +867,7 @@
       "height":"0.89 m",
       "weight":"19.5 kg",
       "candy":"100 Nidoran ♂ 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.83,
       "weaknesses":[
          "땅",
@@ -895,7 +895,7 @@
       "height":"1.40 m",
       "weight":"62.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -923,7 +923,7 @@
       "height":"0.61 m",
       "weight":"7.5 kg",
       "candy":"50 삐삐 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          2.03,
          2.14
@@ -947,7 +947,7 @@
       "height":"1.30 m",
       "weight":"40.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -968,7 +968,7 @@
       "height":"0.61 m",
       "weight":"9.9 kg",
       "candy":"50 식스테일 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.74,
          2.81
@@ -994,7 +994,7 @@
       "height":"1.09 m",
       "weight":"19.9 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -1017,7 +1017,7 @@
       "height":"0.51 m",
       "weight":"5.5 kg",
       "candy":"50 푸린 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":1.85,
       "weaknesses":[
          "격투"
@@ -1038,7 +1038,7 @@
       "height":"0.99 m",
       "weight":"12.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -1059,7 +1059,7 @@
       "height":"0.79 m",
       "weight":"7.5 kg",
       "candy":"50 주뱃 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          2.6,
          3.67
@@ -1086,7 +1086,7 @@
       "height":"1.60 m",
       "weight":"55.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -1110,7 +1110,7 @@
       "height":"0.51 m",
       "weight":"5.4 kg",
       "candy":"25 뚜벅쵸 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.5,
       "weaknesses":[
          "불꽃",
@@ -1138,7 +1138,7 @@
       "height":"0.79 m",
       "weight":"8.6 kg",
       "candy":"100 뚜벅쵸 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.49,
       "weaknesses":[
          "불꽃",
@@ -1168,7 +1168,7 @@
       "height":"1.19 m",
       "weight":"18.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -1196,7 +1196,7 @@
       "height":"0.30 m",
       "weight":"5.4 kg",
       "candy":"50 파라스 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.02,
       "weaknesses":[
          "불꽃",
@@ -1222,7 +1222,7 @@
       "height":"0.99 m",
       "weight":"29.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -1248,7 +1248,7 @@
       "height":"0.99 m",
       "weight":"30.0 kg",
       "candy":"50 콘팡 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.86,
          1.9
@@ -1275,7 +1275,7 @@
       "height":"1.50 m",
       "weight":"12.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -1299,7 +1299,7 @@
       "height":"0.20 m",
       "weight":"0.8 kg",
       "candy":"50 디그다 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.69,
       "weaknesses":[
          "물",
@@ -1322,7 +1322,7 @@
       "height":"0.71 m",
       "weight":"33.3 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -1345,7 +1345,7 @@
       "height":"0.41 m",
       "weight":"4.2 kg",
       "candy":"50 나옹 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.98,
       "weaknesses":[
          "격투"
@@ -1366,7 +1366,7 @@
       "height":"0.99 m",
       "weight":"32.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -1387,7 +1387,7 @@
       "height":"0.79 m",
       "weight":"19.6 kg",
       "candy":"50 고라파덕 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.27,
       "weaknesses":[
          "전기",
@@ -1409,7 +1409,7 @@
       "height":"1.70 m",
       "weight":"76.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -1431,7 +1431,7 @@
       "height":"0.51 m",
       "weight":"28.0 kg",
       "candy":"50 망키 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.17,
          2.28
@@ -1457,7 +1457,7 @@
       "height":"0.99 m",
       "weight":"32.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "비행",
@@ -1480,7 +1480,7 @@
       "height":"0.71 m",
       "weight":"19.0 kg",
       "candy":"50 가디 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.31,
          2.36
@@ -1506,7 +1506,7 @@
       "height":"1.91 m",
       "weight":"155.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -1529,7 +1529,7 @@
       "height":"0.61 m",
       "weight":"12.4 kg",
       "candy":"25 발챙이 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.72,
          1.73
@@ -1558,7 +1558,7 @@
       "height":"0.99 m",
       "weight":"20.0 kg",
       "candy":"100 발챙이 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.95,
       "weaknesses":[
          "전기",
@@ -1586,7 +1586,7 @@
       "height":"1.30 m",
       "weight":"54.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -1615,7 +1615,7 @@
       "height":"0.89 m",
       "weight":"19.5 kg",
       "candy":"25 캐이시 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.36,
          1.95
@@ -1645,7 +1645,7 @@
       "height":"1.30 m",
       "weight":"56.5 kg",
       "candy":"100 캐이시 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.4,
       "weaknesses":[
          "벌레",
@@ -1674,7 +1674,7 @@
       "height":"1.50 m",
       "weight":"48.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "벌레",
@@ -1701,7 +1701,7 @@
       "height":"0.79 m",
       "weight":"19.5 kg",
       "candy":"25 알통몬 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.64,
          1.65
@@ -1731,7 +1731,7 @@
       "height":"1.50 m",
       "weight":"70.5 kg",
       "candy":"100 알통몬 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.7,
       "weaknesses":[
          "비행",
@@ -1760,7 +1760,7 @@
       "height":"1.60 m",
       "weight":"130.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "비행",
@@ -1787,7 +1787,7 @@
       "height":"0.71 m",
       "weight":"4.0 kg",
       "candy":"25 모다피 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.57,
       "weaknesses":[
          "불꽃",
@@ -1815,7 +1815,7 @@
       "height":"0.99 m",
       "weight":"6.4 kg",
       "candy":"100 모다피 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":1.59,
       "weaknesses":[
          "불꽃",
@@ -1845,7 +1845,7 @@
       "height":"1.70 m",
       "weight":"15.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -1873,7 +1873,7 @@
       "height":"0.89 m",
       "weight":"45.5 kg",
       "candy":"50 왕눈해 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.52,
       "weaknesses":[
          "전기",
@@ -1896,7 +1896,7 @@
       "height":"1.60 m",
       "weight":"55.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -1919,7 +1919,7 @@
       "height":"0.41 m",
       "weight":"20.0 kg",
       "candy":"25 꼬마돌 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          1.75,
          1.76
@@ -1952,7 +1952,7 @@
       "height":"0.99 m",
       "weight":"105.0 kg",
       "candy":"100 꼬마돌 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          1.64,
          1.72
@@ -1987,7 +1987,7 @@
       "height":"1.40 m",
       "weight":"300.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -2017,7 +2017,7 @@
       "height":"0.99 m",
       "weight":"30.0 kg",
       "candy":"50 포니타 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.48,
          1.5
@@ -2043,7 +2043,7 @@
       "height":"1.70 m",
       "weight":"95.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -2066,7 +2066,7 @@
       "height":"1.19 m",
       "weight":"36.0 kg",
       "candy":"50 야돈 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.21,
       "weaknesses":[
          "전기",
@@ -2091,7 +2091,7 @@
       "height":"1.60 m",
       "weight":"78.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2116,7 +2116,7 @@
       "height":"0.30 m",
       "weight":"6.0 kg",
       "candy":"50 코일 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.16,
          2.17
@@ -2142,7 +2142,7 @@
       "height":"0.99 m",
       "weight":"60.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -2165,7 +2165,7 @@
       "height":"0.79 m",
       "weight":"15.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2181,7 +2181,7 @@
       "height":"1.40 m",
       "weight":"39.2 kg",
       "candy":"50 두두 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.19,
          2.24
@@ -2206,7 +2206,7 @@
       "height":"1.80 m",
       "weight":"85.2 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2228,7 +2228,7 @@
       "height":"1.09 m",
       "weight":"90.0 kg",
       "candy":"50 쥬쥬 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          1.04,
          1.96
@@ -2253,7 +2253,7 @@
       "height":"1.70 m",
       "weight":"120.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2277,7 +2277,7 @@
       "height":"0.89 m",
       "weight":"30.0 kg",
       "candy":"50 질퍽이 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.44,
       "weaknesses":[
          "땅",
@@ -2299,7 +2299,7 @@
       "height":"1.19 m",
       "weight":"30.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅",
@@ -2321,7 +2321,7 @@
       "height":"0.30 m",
       "weight":"4.0 kg",
       "candy":"50 셀러 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.65,
       "weaknesses":[
          "전기",
@@ -2343,7 +2343,7 @@
       "height":"1.50 m",
       "weight":"132.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2367,7 +2367,7 @@
       "height":"1.30 m",
       "weight":"0.1 kg",
       "candy":"25 고오스 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.78,
       "weaknesses":[
          "땅",
@@ -2395,7 +2395,7 @@
       "height":"1.60 m",
       "weight":"0.1 kg",
       "candy":"100 고오스 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":[
          1.56,
          1.8
@@ -2428,7 +2428,7 @@
       "height":"1.50 m",
       "weight":"40.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅",
@@ -2456,7 +2456,7 @@
       "height":"8.79 m",
       "weight":"210.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -2476,7 +2476,7 @@
       "height":"0.99 m",
       "weight":"32.4 kg",
       "candy":"50 슬리프 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.08,
          2.09
@@ -2502,7 +2502,7 @@
       "height":"1.60 m",
       "weight":"75.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "벌레",
@@ -2525,7 +2525,7 @@
       "height":"0.41 m",
       "weight":"6.5 kg",
       "candy":"50 크랩 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.36,
          2.4
@@ -2550,7 +2550,7 @@
       "height":"1.30 m",
       "weight":"60.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2572,7 +2572,7 @@
       "height":"0.51 m",
       "weight":"10.4 kg",
       "candy":"50 찌리리공 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.01,
          2.02
@@ -2596,7 +2596,7 @@
       "height":"1.19 m",
       "weight":"66.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅"
@@ -2617,7 +2617,7 @@
       "height":"0.41 m",
       "weight":"2.5 kg",
       "candy":"50 아라리 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.7,
          3.18
@@ -2647,7 +2647,7 @@
       "height":"2.01 m",
       "weight":"120.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -2674,7 +2674,7 @@
       "height":"0.41 m",
       "weight":"6.5 kg",
       "candy":"50 탕구리 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.67,
       "weaknesses":[
          "물",
@@ -2697,7 +2697,7 @@
       "height":"0.99 m",
       "weight":"45.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -2720,7 +2720,7 @@
       "height":"1.50 m",
       "weight":"49.8 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "비행",
@@ -2737,7 +2737,7 @@
       "height":"1.40 m",
       "weight":"50.2 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "비행",
@@ -2754,7 +2754,7 @@
       "height":"1.19 m",
       "weight":"65.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -2769,7 +2769,7 @@
       "height":"0.61 m",
       "weight":"1.0 kg",
       "candy":"50 또가스 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.11,
       "weaknesses":[
          "땅",
@@ -2791,7 +2791,7 @@
       "height":"1.19 m",
       "weight":"9.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅",
@@ -2813,7 +2813,7 @@
       "height":"0.99 m",
       "weight":"115.0 kg",
       "candy":"50 뿔카노 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":1.91,
       "weaknesses":[
          "물",
@@ -2839,7 +2839,7 @@
       "height":"1.91 m",
       "weight":"120.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -2865,7 +2865,7 @@
       "height":"1.09 m",
       "weight":"34.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -2880,7 +2880,7 @@
       "height":"0.99 m",
       "weight":"35.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -2899,7 +2899,7 @@
       "height":"2.21 m",
       "weight":"80.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -2914,7 +2914,7 @@
       "height":"0.41 m",
       "weight":"8.0 kg",
       "candy":"50 쏘드라 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":2.23,
       "weaknesses":[
          "전기",
@@ -2936,7 +2936,7 @@
       "height":"1.19 m",
       "weight":"25.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -2958,7 +2958,7 @@
       "height":"0.61 m",
       "weight":"15.0 kg",
       "candy":"50 콘치 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.15,
          2.2
@@ -2983,7 +2983,7 @@
       "height":"1.30 m",
       "weight":"39.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3005,7 +3005,7 @@
       "height":"0.79 m",
       "weight":"34.5 kg",
       "candy":"50 별가사리 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":[
          2.38,
          2.41
@@ -3030,7 +3030,7 @@
       "height":"1.09 m",
       "weight":"80.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3055,7 +3055,7 @@
       "height":"1.30 m",
       "weight":"54.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "벌레",
@@ -3072,7 +3072,7 @@
       "height":"1.50 m",
       "weight":"56.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -3091,7 +3091,7 @@
       "height":"1.40 m",
       "weight":"40.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -3111,7 +3111,7 @@
       "height":"1.09 m",
       "weight":"30.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "땅"
@@ -3126,7 +3126,7 @@
       "height":"1.30 m",
       "weight":"44.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -3143,7 +3143,7 @@
       "height":"1.50 m",
       "weight":"55.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -3160,7 +3160,7 @@
       "height":"1.40 m",
       "weight":"88.4 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -3175,7 +3175,7 @@
       "height":"0.89 m",
       "weight":"10.0 kg",
       "candy":"400 잉어킹 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"2 km",
       "multipliers":[
          10.1,
          11.8
@@ -3200,7 +3200,7 @@
       "height":"6.50 m",
       "weight":"235.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3222,7 +3222,7 @@
       "height":"2.49 m",
       "weight":"220.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3240,7 +3240,7 @@
       "height":"0.30 m",
       "weight":"4.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -3255,7 +3255,7 @@
       "height":"0.30 m",
       "weight":"6.5 kg",
       "candy":"25 이브이 캔디 (Evolution decided at random. Or, for first evolution, rename Eevee: Rainer => Vaporeon, Sparky => Jolteon, Pyro => Flareon)",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":[
          2.02,
          2.64
@@ -3287,7 +3287,7 @@
       "height":"0.99 m",
       "weight":"29.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3309,7 +3309,7 @@
       "height":"0.79 m",
       "weight":"24.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "땅"
@@ -3330,7 +3330,7 @@
       "height":"0.89 m",
       "weight":"25.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -3353,7 +3353,7 @@
       "height":"0.79 m",
       "weight":"36.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"5 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -3368,7 +3368,7 @@
       "height":"0.41 m",
       "weight":"7.5 kg",
       "candy":"50 암나이트 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":2.12,
       "weaknesses":[
          "전기",
@@ -3392,7 +3392,7 @@
       "height":"0.99 m",
       "weight":"35.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3416,7 +3416,7 @@
       "height":"0.51 m",
       "weight":"11.5 kg",
       "candy":"50 투구 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":[
          1.97,
          2.37
@@ -3443,7 +3443,7 @@
       "height":"1.30 m",
       "weight":"40.5 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "전기",
@@ -3467,7 +3467,7 @@
       "height":"1.80 m",
       "weight":"59.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -3486,7 +3486,7 @@
       "height":"2.11 m",
       "weight":"460.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":null,
       "weaknesses":[
          "격투"
@@ -3501,7 +3501,7 @@
       "height":"1.70 m",
       "weight":"55.4 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "불꽃",
@@ -3519,7 +3519,7 @@
       "height":"1.60 m",
       "weight":"52.6 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "얼음",
@@ -3535,7 +3535,7 @@
       "height":"2.01 m",
       "weight":"60.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "물",
@@ -3552,7 +3552,7 @@
       "height":"1.80 m",
       "weight":"3.3 kg",
       "candy":"25 미뇽 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "egg":"10 km",
       "multipliers":[
          1.83,
          1.84
@@ -3581,8 +3581,8 @@
       "type":"드래곤",
       "height":"3.99 m",
       "weight":"16.5 kg",
-      "candy":"100 미뇽 캔디",
-      "egg":"알에서 얻을 수 없음",
+      "candy":"100 Dratini 캔디",
+      "egg":null,
       "multipliers":2.05,
       "weaknesses":[
          "얼음",
@@ -3605,7 +3605,7 @@
       "height":"2.21 m",
       "weight":"210.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "얼음",
@@ -3629,7 +3629,7 @@
       "height":"2.01 m",
       "weight":"122.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "벌레",
@@ -3646,7 +3646,7 @@
       "height":"0.41 m",
       "weight":"4.0 kg",
       "candy":"없음",
-      "egg":"알에서 얻을 수 없음",
+      "egg":null,
       "multipliers":null,
       "weaknesses":[
          "벌레",
