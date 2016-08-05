@@ -1,5 +1,5 @@
 # 포켓몬 고 도감
-포켓몬 도감 of 포켓몬 고 in JSON
+  포켓몬 고 도감 in JSON
 
 # Elements
 *   **id**: *포켓몬 아이디*
